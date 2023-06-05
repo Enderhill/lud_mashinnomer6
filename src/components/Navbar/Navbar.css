@@ -1,0 +1,27 @@
+.navbar {
+    height: 100vh; /* Занимает 100% высоты видимой области страницы */
+    width: 200px;
+    background-color:#D0CACA;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .nav-button {
+    background-color: white;
+    width: 100%;
+    padding: 28px;
+    margin-bottom: 45px;
+ 
+    text-align: left;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 43px;
+  }
+  
+  .nav-button:hover {
+    background-color: #e5e5e5;
+
+  }
+  
